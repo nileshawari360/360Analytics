@@ -181,7 +181,7 @@
 FROM apache/superset:latest
 
 # Copy your custom assets
-COPY superset/static/assets /app/superset/static/assets
+#COPY superset/static/assets /app/superset/static/assets
 
 # Copy your custom configuration
 COPY superset/config.py /app/superset/config.py
