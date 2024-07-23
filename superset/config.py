@@ -299,10 +299,11 @@ AUTH_RATE_LIMIT = "5 per second"
 # GLOBALS FOR APP Builder
 # ------------------------------
 # Uncomment to setup Your App name
-APP_NAME = "Superset"
+APP_NAME = "360 Analytics"
 
 # Specify the App icon
-APP_ICON = "/static/assets/images/superset-logo-horiz.png"
+# APP_ICON = "/static/assets/images/superset-logo-horiz.png"
+APP_ICON = "superset-frontend/src/assets/images/360Analytics.png"
 
 # Specify where clicking the logo would take the user'
 # Default value of None will take you to '/superset/welcome'
