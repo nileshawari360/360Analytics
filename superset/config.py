@@ -303,7 +303,7 @@ APP_NAME = "360 Analytics"
 
 # Specify the App icon
 #APP_ICON = "/static/assets/images/superset-logo-horiz.png"
-APP_ICON = "\superset\static\assets\360Analytics.png"
+APP_ICON = "/static/assets/images/customlogo.png"
 
 # Specify where clicking the logo would take the user'
 # Default value of None will take you to '/superset/welcome'
